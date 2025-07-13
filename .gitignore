@@ -1,0 +1,12 @@
+# Python Virtual Environments
+*-venv
+
+# Python Cache Files
+**/__pycache__/
+
+
+# Migrations
+**/migrations
+
+# Temporary SQLite Database
+*.sqlite3
