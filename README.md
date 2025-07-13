@@ -4,12 +4,15 @@ This repository contains a Django and Django REST Framework backend API for Laho
 
 
 ## Table of Contents
+- [1Now](#1now)
+- [Frontend Connection](#frontend-connection)
 - [Features](#features)
 - [Installation and Setup](#installation-and-setup)
 - [Running Tests](#running-tests)
 - [Sample Requests/Responses](#sample-requestsresponses)
 - [API Documentation](#api-documentation)
 - [Implemented Bonus Tasks](#implemented-bonus-tasks)
+- [Assumptions](#assumptions)
 
 
 ## 1Now
